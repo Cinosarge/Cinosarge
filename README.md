@@ -1,10 +1,11 @@
 # Document under heavy work in progress
-# You will find lots of fine stuff here in the days coming!
-You will find hypotesis about my purpose in life and the list of all my regrets.
-Remember that una salus victis: nullam sperare salutem
+This document is a harsh attempt to figure it out what's going on in my life.
 
-## What I think I was born for
+## You will find lots of fine stuff here in the days coming!
+You will find hypotesis about my purpose in life and the complete list of my regrets.
+Remember that "una salus victis: nullam sperare salutem", you'll be asked about it later.
 
+## What I think I am and what my purpose in life may be
 - 👋 Hi! I'm @Cinosarge, a computer science grad student in search for inspiration. I'm picky and dislike most vegetables.
 - 👀 I’m interested in many things but hardly ever put effort into them.
 - 🌱 I’m currently learning how to take it easy and being a Dude.
