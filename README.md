@@ -6,7 +6,6 @@ You can click the Preview link to take a look at your changes.
 ## Hey dudes!
 - I'm a computer science grad student in search for inspiration
 - Running enthusiast
-- Currently unemployed
 + I'm picky and dislike most vegetables while love a few ones
 + I’m currently learning how to take it easy and be a Dude - also learnin Kotlin for Android
 
