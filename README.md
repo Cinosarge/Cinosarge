@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 - I'm a computer science grad student in search for inspiration
 - Running enthusiast
 + I'm picky and dislike most vegetables while love a few ones
-+ I’m currently learning how to take it easy and be a Dude - also learnin Kotlin for Android
++ I’m currently learning how to take it easy and be a Dude
 
 ## Contributions
 - You may want to know how a J2EE web app works or get inspiration for your Uni Web Project: here you are with [mariahandmade](https://github.com/Cinosarge/mariahandmade) project.
