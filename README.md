@@ -4,8 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Hey dudes!
-- I'm a computer science grad student in search for inspiration
+- I'm a computer scientist in search for inspiration (and a job too)
 - Running enthusiast
+- Also enjoy hard hiking
 + I'm picky and dislike most vegetables while love a few ones
 + I’m currently learning how to take it easy and be a Dude
 
