@@ -5,9 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Hey dudes!
 - I'm a computer scientist and a developer 
-- In search for inspiration
-- Running enthusiast
-- Also enjoy hard hiking
+- Running enthusiast, also enjoy hard hiking
 + I'm picky with meat but like most vegetables while hate a few ones
 + I’m currently learning how to take it easy and be a Dude
 + Can read and write too
